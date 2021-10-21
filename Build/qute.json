@@ -1,7 +1,7 @@
 {
 "companyName": "Quantum Realm Games",
 "productName": "Qute",
-"productVersion": "0.37",
+"productVersion": "0.38",
 "dataUrl": "qute.data.unityweb",
 "asmCodeUrl": "qute.asm.code.unityweb",
 "asmMemoryUrl": "qute.asm.memory.unityweb",
